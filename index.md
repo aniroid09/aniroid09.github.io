@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://image-cdn.essentiallysports.com/wp-content/uploads/20201011203851/cyberpunk2077-credit-cdprojektred%402000x1270-1.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
